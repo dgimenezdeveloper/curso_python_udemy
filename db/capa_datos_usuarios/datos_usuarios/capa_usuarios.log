@@ -1,0 +1,922 @@
+08:00:23 AM: DEBUG [logger_base.py:11] Mensaje a nivel debug
+08:00:23 AM: INFO [logger_base.py:12] Mensaje a nivel info
+08:00:23 AM: WARNING [logger_base.py:13] Mensaje a nivel warning
+08:00:23 AM: ERROR [logger_base.py:14] Mensaje a nivel error
+08:00:23 AM: CRITICAL [logger_base.py:15] Mensaje a nivel critical
+09:05:30 AM: ERROR [conexion.py:32] Ocurrió un error al obtener el pool: type object 'Conexion' has no attribute 'DB_PORT'
+09:06:01 AM: DEBUG [conexion.py:29] Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fb2c3a49630>
+09:06:01 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7fb2c4c1df80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:06:45 AM: ERROR [conexion.py:32] Ocurrió un error al obtener el pool: 'str' object cannot be interpreted as an integer
+09:07:18 AM: DEBUG [conexion.py:29] Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7feb436f9630>
+09:07:18 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7feb448cdf80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:07:41 AM: ERROR [conexion.py:32] Ocurrió un error al obtener el pool: unsupported operand type(s) for -: 'str' and 'str'
+09:08:10 AM: DEBUG [conexion.py:29] Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7feb29221660>
+09:08:10 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7feb2a3f5f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:08:26 AM: DEBUG [conexion.py:29] Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f7a8a755630>
+09:08:26 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7f7a8b929f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:08:47 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f993b6fd630>
+09:08:47 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7f993c8d1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:10:42 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f5ee9291630>
+09:10:42 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7f5eea465f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:10:55 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f851edbd630>
+
+09:10:55 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7f851ff91f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:11:46 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7fd4f193d630>
+
+09:11:46 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7fd4f2b11f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:12:03 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7f6f8d9e55a0>
+
+09:12:03 AM: DEBUG [conexion.py:40] Conexión obtenida del pool: <connection object at 0x7f6f8ebb9f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:12:48 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool: <psycopg2.pool.SimpleConnectionPool object at 0x7efdeaac5510>
+
+09:12:48 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool: <connection object at 0x7efdebc99f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:13:07 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+ <psycopg2.pool.SimpleConnectionPool object at 0x7f82922cd510>
+
+09:13:07 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+ <connection object at 0x7f82934a1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:14:14 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fc458971690>
+
+09:14:14 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc459b45f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:14:14 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc459b465c0; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:14:14 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc459b46700; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:14:14 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc459b46840; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:14:14 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc459b46980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f3b009497b0>
+
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b19f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b1a5c0; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b1a700; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b1a840; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b1a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+09:15:50 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f3b01b1a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+09:15:50 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f3b01b1a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f4e4187d7b0>
+
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a51f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a525c0; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a52700; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a52840; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a52980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:00:44 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f4e42a52980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:00:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f4e42a52980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fd7671a58d0>
+
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd768379f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd76837a5c0; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd76837a700; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd76837a840; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd76837a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fd76837a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd76837a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:01:44 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fd768379f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:01:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fd768379f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:18:26 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:18:26 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f227ee1fbe0>
+
+10:18:26 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f227efd1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:18:26 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:18:26 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:18:26 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+no existe la relación «persona»
+LINE 1: SELECt * FROM persona ORDER by id_persona
+                      ^
+-<class 'psycopg2.errors.UndefinedTable'>-<traceback object at 0x7f227dc73600>
+10:18:26 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f227efd1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:19:36 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:19:36 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7ffb0f44bbe0>
+
+10:19:36 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7ffb0f5f9f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:19:36 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:19:36 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:19:36 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+no existe la relación «usuarios»
+LINE 1: SELECt * FROM usuarios ORDER by id
+                      ^
+-<class 'psycopg2.errors.UndefinedTable'>-<traceback object at 0x7ffb0f371500>
+10:19:36 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7ffb0f5f9f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:20:04 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:20:04 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f896f463be0>
+
+10:20:04 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f896f615f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:20:04 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:20:04 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:20:04 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:20:04 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:20:04 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f896f615f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:21:40 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:21:40 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fc62a797be0>
+
+10:21:40 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc62a945f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:21:40 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:21:40 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:21:40 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:21:40 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:21:40 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fc62a945f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:21:57 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:21:57 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f989d86fbe0>
+
+10:21:57 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f989da21f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:21:57 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:21:57 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:21:57 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:21:57 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:21:57 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f989da21f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:22:17 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:22:17 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fbb9e45bbe0>
+
+10:22:17 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fbb9e60df80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:22:17 AM: DEBUG [CursorDelPool.py:28] Dentro del bloque with
+10:22:17 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:22:17 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:22:17 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:22:17 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fbb9e60df80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:22:39 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:22:39 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f20134a3be0>
+
+10:22:39 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f2013655f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:22:39 AM: DEBUG [CursorDelPool.py:28] 
+Dentro del bloque with
+10:22:39 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:22:39 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:22:39 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:22:39 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f2013655f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:22:53 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:22:53 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f5aa5de3be0>
+
+10:22:53 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f5aa5f95f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:22:53 AM: DEBUG [CursorDelPool.py:28] 
+Dentro del bloque with
+10:22:53 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:22:53 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:22:53 AM: DEBUG [CursorDelPool.py:22] Commit de la transacción.
+10:22:53 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f5aa5f95f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:23:25 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:23:25 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f6e777cfbe0>
+
+10:23:25 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f6e7797df80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:23:25 AM: DEBUG [CursorDelPool.py:28] 
+Dentro del bloque with
+10:23:25 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:23:25 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:23:25 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:23:25 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f6e7797df80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:24:12 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:24:12 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f2b87747be0>
+
+10:24:12 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f2b878f9f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:24:12 AM: DEBUG [CursorDelPool.py:28] *************
+Dentro del bloque with**************
+10:24:12 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:24:12 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:24:12 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:24:12 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f2b878f9f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:24:24 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:24:24 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f24513c7be0>
+
+10:24:24 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f2451579f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:24:24 AM: DEBUG [CursorDelPool.py:28] **************Dentro del bloque with**************
+10:24:24 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:24:24 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:24:24 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:24:24 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f2451579f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:24:36 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:24:36 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f7a3119bbe0>
+
+10:24:36 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f7a31349f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:24:36 AM: DEBUG [CursorDelPool.py:28] *************
+Dentro del bloque with**************
+10:24:36 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:24:36 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:24:36 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:24:36 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f7a31349f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:24:49 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:24:49 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f19475d7be0>
+
+10:24:49 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f1947789f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:24:49 AM: DEBUG [CursorDelPool.py:28] *************
+Dentro del bloque with**************
+10:24:49 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:24:49 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:24:49 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:24:49 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f1947789f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:24:58 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:24:58 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7ff32e263be0>
+
+10:24:58 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7ff32e415f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:24:58 AM: DEBUG [CursorDelPool.py:28] **************Dentro del bloque with**************
+10:24:58 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:24:58 AM: DEBUG [CursorDelPool.py:16] 
+Se ejecuta el método __exit__
+10:24:58 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:24:58 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7ff32e415f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:25:33 AM: DEBUG [CursorDelPool.py:10] 
+Inicio del método __enter__
+10:25:33 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f8cd5f3fbe0>
+
+10:25:33 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f8cd60f1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:25:33 AM: DEBUG [CursorDelPool.py:28] **************Dentro del bloque with**************
+10:25:33 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:25:33 AM: DEBUG [CursorDelPool.py:16] **********Se ejecuta el método __exit__***********
+10:25:33 AM: DEBUG [CursorDelPool.py:22] 
+Commit de la transacción.
+10:25:33 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f8cd60f1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:26:22 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+10:26:22 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f1ecf933be0>
+
+10:26:22 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f1ecfae5f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:26:22 AM: DEBUG [CursorDelPool.py:28] **************Dentro del bloque with**************
+10:26:22 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:26:22 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+10:26:22 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+10:26:22 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f1ecfae5f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:27:02 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+10:27:02 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f14e410fbe0>
+
+10:27:02 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f14e42c1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+10:27:02 AM: DEBUG [CursorDelPool.py:28] **************Dentro del bloque with**************
+10:27:02 AM: DEBUG [CursorDelPool.py:30] [(1, 'daseg', '15211730')]
+10:27:02 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+10:27:02 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+10:27:02 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f14e42c1f80; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+10:48:17 AM: DEBUG [usuario.py:41] 
+        ID N°: 2
+        USUARIO: miguel
+        PASSWORD: 15091998
+    
+11:19:28 AM: DEBUG [usuarioDao.py:33] 
+        ID N°: None
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:20:00 AM: DEBUG [usuarioDao.py:33] 
+        ID N°: None
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:21:24 AM: DEBUG [usuarioDao.py:33] 
+        ID N°: None
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:25:28 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:25:28 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f5f0f399090>
+
+11:25:28 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f5f0f632980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:25:28 AM: DEBUG [usuarioDao.py:28] Usuario agregado: 
+        ID N°: None
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:25:28 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:25:28 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:25:28 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f5f0f632980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:25:28 AM: DEBUG [usuarioDao.py:34] Usuario Agregado: 1
+11:33:11 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:33:11 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f244a47a6b0>
+
+11:33:11 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f244b5c2980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:33:11 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:33:11 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+'tuple' object has no attribute 'usuario'-<class 'AttributeError'>-<traceback object at 0x7f244a4011c0>
+11:33:11 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f244b5c2980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:35:24 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:35:24 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fb514fcb640>
+
+11:35:24 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fb516196980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:35:24 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:35:24 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+'tuple' object has no attribute 'usuario'-<class 'AttributeError'>-<traceback object at 0x7fb514e2bc40>
+11:35:24 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fb516196980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:36:47 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:36:47 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fc0902bb640>
+
+11:36:47 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fc091486980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:36:47 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:36:47 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+'tuple' object has no attribute 'usuario'-<class 'AttributeError'>-<traceback object at 0x7fc09011bc40>
+11:36:47 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fc091486980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:37:45 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:37:45 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7ff2887cf5e0>
+
+11:37:45 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7ff28999a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:37:45 AM: DEBUG [usuarioDao.py:28] Usuario agregado: 
+        ID N°: None
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+11:37:45 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:37:45 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:37:45 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7ff28999a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:37:45 AM: DEBUG [usuarioDao.py:36] Usuario Agregado: 1
+11:38:34 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:38:34 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f37af6b35e0>
+
+11:38:34 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f37b087e980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:38:34 AM: DEBUG [usuarioDao.py:28] Usuario agregado: 
+        ID N°: None
+        USUARIO: miguelcid
+        PASSWORD: cidmiguel
+    
+11:38:34 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:38:34 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:38:34 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f37b087e980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:38:34 AM: DEBUG [usuarioDao.py:36] Usuario Agregado: 1
+11:40:41 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:40:41 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f0ded576b30>
+
+11:40:41 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f0ded72a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:40:41 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:40:41 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:40:41 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f0ded72a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:40:41 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+11:40:41 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:40:41 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+11:40:41 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 4
+        USUARIO: miguelcid
+        PASSWORD: cidmiguel
+    
+11:43:56 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:44:32 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f6594dcd570>
+
+11:44:44 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f6598671940; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:47:28 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:47:39 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:49:46 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+11:49:46 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7ff7e0f82b30>
+
+11:49:46 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7ff7e1136980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+11:49:46 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+11:49:46 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+11:49:46 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7ff7e1136980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+11:49:46 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+11:49:46 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+11:49:46 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+11:49:46 AM: DEBUG [usuarioDao.py:40] 
+        ID N°: 4
+        USUARIO: miguelcid
+        PASSWORD: cidmiguel
+    
+12:14:36 PM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+12:14:36 PM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f18e7db5f90>
+
+12:14:36 PM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f18e8056980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+12:14:36 PM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+12:14:36 PM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+'int' object does not support indexing-<class 'TypeError'>-<traceback object at 0x7f18e7dce400>
+12:14:36 PM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f18e8056980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+12:17:39 PM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+12:17:39 PM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f2fb8119ff0>
+
+12:17:39 PM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f2fb83ba980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+12:17:39 PM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+12:17:39 PM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+'int' object does not support indexing-<class 'TypeError'>-<traceback object at 0x7f2fb8132380>
+12:17:39 PM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f2fb83ba980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+12:18:09 PM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+12:18:09 PM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7ffb70a89ff0>
+
+12:18:09 PM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7ffb70d2a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+12:18:09 PM: DEBUG [usuarioDao.py:44] Usuario eliminado: 
+        ID N°: 4
+        USUARIO: None
+        PASSWORD: None
+    
+12:18:09 PM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+12:18:09 PM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+12:18:09 PM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7ffb70d2a980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+12:18:09 PM: DEBUG [usuarioDao.py:60] Personas eliminadas: 1
+06:25:01 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+06:25:01 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7fda3ee53f70>
+
+06:25:01 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7fda3f006980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+06:25:01 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+06:25:01 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+06:25:01 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7fda3f006980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+06:25:01 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:25:01 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:25:01 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+06:25:28 AM: INFO [menu_app_usuario.py:17] Salimos de la aplicación... :D
+06:27:03 AM: DEBUG [CursorDelPool.py:10] ********** Inicio del método __enter__ ***********
+06:27:03 AM: DEBUG [conexion.py:29] 
+Conexión exitosa del pool:
+<psycopg2.pool.SimpleConnectionPool object at 0x7f5653f9ff70>
+
+06:27:03 AM: DEBUG [conexion.py:40] 
+Conexión obtenida del pool:
+<connection object at 0x7f5654152980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+
+06:27:03 AM: DEBUG [CursorDelPool.py:16] ********* Se ejecuta el método __exit__ **********
+06:27:03 AM: DEBUG [CursorDelPool.py:22] *********** Commit de la transacción. ************
+06:27:03 AM: DEBUG [conexion.py:46] 
+Se regresa la conexión al pool:
+<connection object at 0x7f5654152980; dsn: 'user=daseg password=xxx dbname=usuarios host=localhost port=5432', closed: 0>
+06:27:03 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:27:03 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:27:03 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+06:27:28 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:27:28 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:27:28 AM: INFO [menu_app_usuario.py:16] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+06:27:37 AM: INFO [menu_app_usuario.py:19] Salimos de la aplicación... :D
+06:52:15 AM: INFO [menu_app_usuario.py:23] Usuarios Insertados: 1
+06:53:06 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:53:06 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:53:06 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+06:53:06 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 5
+        USUARIO: mlara
+        PASSWORD: 567
+    
+06:54:47 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+can't adapt type 'builtin_function_or_method'-<class 'psycopg2.ProgrammingError'>-<traceback object at 0x7fc1d2145c80>
+06:55:38 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:55:38 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:55:38 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 3
+        USUARIO: daseg210986
+        PASSWORD: gmnz152117
+    
+06:55:38 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 5
+        USUARIO: mlara
+        PASSWORD: 567
+    
+06:55:56 AM: ERROR [CursorDelPool.py:19] 
+Ocurrió un error.
+Se hizo rollback:
+can't adapt type 'builtin_function_or_method'-<class 'psycopg2.ProgrammingError'>-<traceback object at 0x7f6872091b00>
+06:58:48 AM: INFO [menu_app_usuario.py:30] Usuarios actualizados: 1
+06:58:50 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:58:50 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:58:50 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 3
+        USUARIO: daseg4ever
+        PASSWORD: 3017
+    
+06:58:50 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 5
+        USUARIO: mlara
+        PASSWORD: 567
+    
+06:59:10 AM: INFO [menu_app_usuario.py:35] Usuarios eliminados: 1
+06:59:12 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 1
+        USUARIO: daseg
+        PASSWORD: 15211730
+    
+06:59:12 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 2
+        USUARIO: daseg2109
+        PASSWORD: gmnz1521
+    
+06:59:12 AM: INFO [menu_app_usuario.py:17] 
+        ID N°: 3
+        USUARIO: daseg4ever
+        PASSWORD: 3017
+    
+06:59:21 AM: INFO [menu_app_usuario.py:36] Salimos de la aplicación... :D
